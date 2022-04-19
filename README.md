@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Natskuni
 - 👀 I’m interested in Graphic Design, Web programming and Decentralization
-- 🌱 I’m currently learning responsive web design
+- 🌱 I’m currently learning Responsive Web Design
 - 📫 you may reach me on my email (salembadawood1@gmail.com)
 
 <!---
