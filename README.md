@@ -1,29 +1,20 @@
 <div align="center">
 
-<!-- HAND DRAWN HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F5F5F0&fontColor=2a2a2a&height=200&section=header&text=Salem%20Khalid%20Salem%20Badawood&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Clinical-Year%20Medical%20Student%20(MBBS)%20📋&descSize=18&descAlignY=55&descColor=c41e3a"/>
+# 📋 Salem Khalid Salem Badawood
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&weight=700&size=28&duration=3500&pause=1200&color=2A2A2A&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=⚕️+Studying+cardiac+rhythms+and+saving+lives+by+day...;🎮+Unwinding+with+strategic+games+by+night..." alt="Typing SVG" />
-</a>
+### 🩺 Clinical-Year Medical Student (MBBS)
 
-<br>
+---
 
-<!-- SKETCH DIVIDER -->
-```
-═══════════════════════════════════════════════════════════════════════════════
-```
+**⚕️ Studying cardiac rhythms and saving lives by day...**  
+**🎮 Unwinding with strategic games by night...**
 
-<br>
+---
 
-<!-- HAND DRAWN BADGES -->
-<img src="https://img.shields.io/badge/MBBS-Clinical%20Years-c41e3a?style=for-the-badge&logo=stethoscope&logoColor=white&labelColor=f5f5f0"/>
-<img src="https://img.shields.io/badge/Cardiology-ECG%20Master-2a2a2a?style=for-the-badge&logo=heart&logoColor=white&labelColor=f5f5f0"/>
-<img src="https://img.shields.io/badge/Pulmonology-Respiratory-c41e3a?style=for-the-badge&logo=lungs&logoColor=white&labelColor=f5f5f0"/>
-<img src="https://img.shields.io/badge/Hepatology-Liver%20Science-2a2a2a?style=for-the-badge&logo=dna&logoColor=white&labelColor=f5f5f0"/>
-
-<br><br>
+![Medical](https://img.shields.io/badge/MBBS-Clinical%20Years-c41e3a?style=for-the-badge)
+![Cardiology](https://img.shields.io/badge/Cardiology-ECG%20Master-2a2a2a?style=for-the-badge)
+![Pulmonology](https://img.shields.io/badge/Pulmonology-Respiratory-c41e3a?style=for-the-badge)
+![Hepatology](https://img.shields.io/badge/Hepatology-Liver%20Science-2a2a2a?style=for-the-badge)
 
 </div>
 
@@ -31,581 +22,413 @@
 
 ## ⚕️ About Me - First and Foremost, A Future Physician
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=26&duration=2500&pause=800&color=C41E3A&center=true&vCenter=true&width=700&lines=Medicine+is+my+true+passion+%E2%9A%95%EF%B8%8F;Patient+care+comes+first+%F0%9F%92%99;Clinical+excellence+is+my+goal+%F0%9F%A9%BA" alt="Passion Statement" />
-</div>
-
-<br>
-
-> <sub>![](https://via.placeholder.com/15/c41e3a/c41e3a.png) **FIRST AND FOREMOST:** I am a physician in training—devoted to understanding the intricate beauty of human physiology and the art of healing. My journey through **clinical medicine** is driven by genuine curiosity, compassion, and an unwavering commitment to patient care.</sub>
+> **FIRST AND FOREMOST:** I am a physician in training—devoted to understanding the intricate beauty of human physiology and the art of healing. My journey through **clinical medicine** is driven by genuine curiosity, compassion, and an unwavering commitment to patient care.
 > 
-> <sub>![](https://via.placeholder.com/15/2a2a2a/2a2a2a.png) **FROM THE HEART:** From analyzing complex cardiac rhythms to understanding respiratory mechanics and hepatic biochemistry, I immerse myself in the science that saves lives. While I enjoy gaming and creative pursuits during my downtime, **my true passion lies in medicine**—where every case is a puzzle, every diagnosis a triumph, and every patient interaction a privilege.</sub>
+> **FROM THE HEART:** From analyzing complex cardiac rhythms to understanding respiratory mechanics and hepatic biochemistry, I immerse myself in the science that saves lives. While I enjoy gaming and creative pursuits during my downtime, **my true passion lies in medicine**—where every case is a puzzle, every diagnosis a triumph, and every patient interaction a privilege.
 > 
-> <sub>![](https://via.placeholder.com/15/c41e3a/c41e3a.png) **THIS IS MY CALLING.** 💖</sub>
-
-<br>
-
-```
-═══════════════════════════════════════════════════════════════════════════════
-```
-
-<br>
+> **THIS IS MY CALLING.** 💖
 
 ---
 
-## ⚕️ My Medical Journey & Clinical Focus
+## 💗 My Medical Journey & Clinical Focus
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=800&size=32&duration=2000&pause=1000&color=C41E3A&center=true&vCenter=true&width=600&lines=The+Heart+of+My+Studies+%F0%9F%92%97" alt="Medical Focus" />
-</div>
+### 🫀 Cardiology & ECG Mastery
 
-<br>
+**The heart is my favorite organ!** I'm deeply fascinated by cardiac electrophysiology—the intricate dance of electrical signals that keep us alive.
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### <div align="center">💗 Cardiology & ECG Mastery</div>
-
-<div align="center">
-
-<!-- ACTUAL ECG VISUALIZATION -->
-```
-╔════════════════════════════════════════════════════════════╗
-║  ECG RHYTHM STRIP - NORMAL SINUS RHYTHM                    ║
-╠════════════════════════════════════════════════════════════╣
-║         ▁▂                ▁▂                ▁▂            ║
-║        ▕ ▏              ▕ ▏              ▕ ▏             ║
-║     ▁▁▁▏ ▕▁▁▁        ▁▁▁▏ ▕▁▁▁        ▁▁▁▏ ▕▁▁▁         ║
-║    ▕           ▏      ▕           ▏      ▕           ▏    ║
-║ ▁▁▁▏           ▕▁▁ ▁▁▁▏           ▕▁▁ ▁▁▁▏           ▕▁▁ ║
-╠════════════════════════════════════════════════════════════╣
-║  HR: 72 bpm | PR: 0.16s | QRS: 0.08s | QT: 0.40s         ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br>
-
-![Heart Animation](https://media.giphy.com/media/26gR0hw5lvbMogb1C/giphy.gif)
-
-<br>
-
-<sub>**🌸 The heart is my favorite organ!** I'm deeply fascinated by cardiac electrophysiology—the intricate dance of electrical signals that keep us alive.</sub>
-
-<br>
-
-<details>
-<summary><b>🔍 What I Love About Cardiology</b></summary>
-
-<br>
+#### 📊 ECG Rhythm Strip - Normal Sinus Rhythm
 
 ```
-┌─────────────────────────────────────────────┐
-│ ✓ Reading complex ECG rhythms              │
-│ ✓ Cardiac vectors & axis deviation         │
-│ ✓ Arrhythmias (VT, SVT, AFib, flutter)     │
-│ ✓ ST-elevation patterns in acute MI        │
-│ ✓ Bundle branch blocks                     │
-│ ✓ Conduction abnormalities                 │
-└─────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║         ╱╲              ╱╲              ╱╲              ╱╲       ║
+║        ╱  ╲            ╱  ╲            ╱  ╲            ╱  ╲      ║
+║       ╱    ╲          ╱    ╲          ╱    ╲          ╱    ╲     ║
+║   ___╱      ╲____  __╱      ╲____  __╱      ╲____  __╱      ╲___ ║
+║                                                                   ║
+║   P  QRS  T      P  QRS  T      P  QRS  T      P  QRS  T        ║
+║                                                                   ║
+╠═══════════════════════════════════════════════════════════════════╣
+║  Heart Rate: 72 bpm  |  PR Interval: 0.16s  |  QRS: 0.08s       ║
+║  QT Interval: 0.40s  |  Rhythm: Regular     |  Axis: Normal     ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
+
+#### 🔍 What I Love About Cardiology
+
+- ✅ Reading and interpreting complex ECG rhythms
+- ✅ Understanding cardiac vectors and axis deviation
+- ✅ Identifying arrhythmias (VT, SVT, AFib, atrial flutter)
+- ✅ ST-elevation patterns in acute myocardial infarction
+- ✅ Bundle branch blocks (RBBB, LBBB)
+- ✅ Conduction abnormalities (AV blocks, WPW syndrome)
+- ✅ QT prolongation and torsades de pointes
+- ✅ Pacemaker rhythms and interpretation
 
 **💡 Clinical Insight:**  
 *"There's something magical about how a simple 12-lead ECG can tell you exactly what's happening inside someone's heart. I spend hours practicing rhythm strips and find genuine joy in catching subtle changes that could save lives!"*
 
-</details>
+![ECG](https://img.shields.io/badge/ECG-12--Lead%20Master-c41e3a?style=flat-square)
+![Arrhythmia](https://img.shields.io/badge/Arrhythmia-Detection-2a2a2a?style=flat-square)
+![Cardiac Vectors](https://img.shields.io/badge/Cardiac-Vectors-c41e3a?style=flat-square)
 
-<br>
+---
 
-![ECG Badge](https://img.shields.io/badge/ECG-12--Lead%20Master-c41e3a?style=flat-square&logo=activity&logoColor=white)
-![Arrhythmia](https://img.shields.io/badge/Arrhythmia-Detection-2a2a2a?style=flat-square&logo=heart&logoColor=white)
-![Cardiac](https://img.shields.io/badge/Cardiac-Vectors-c41e3a?style=flat-square&logo=vector&logoColor=white)
+### 🫁 Pulmonology & Respiratory Care
 
-</td>
-<td width="50%" valign="top">
+**Breathing is life!** The respiratory system amazes me with its elegant design and critical function in maintaining our body's balance.
 
-### <div align="center">🫁 Pulmonology & Respiratory Care</div>
-
-<div align="center">
-
-<!-- BREATHING VISUALIZATION -->
-```
-╔════════════════════════════════════════════════════════════╗
-║  RESPIRATORY CYCLE - INSPIRATION & EXPIRATION              ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║     INSPIRATION →    ╱╲    ← EXPIRATION                   ║
-║                     ╱  ╲                                   ║
-║                    ╱ O₂ ╲                                  ║
-║                   ╱  ↓↓  ╲                                 ║
-║                  ╱   🫁   ╲                                ║
-║                 ╱   ↑↑CO₂ ╲                               ║
-║                ╱____________╲                              ║
-║                                                            ║
-╠════════════════════════════════════════════════════════════╣
-║  V/Q Ratio: 0.8 | FiO₂: 21% | SpO₂: 98% | RR: 16/min     ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br>
-
-![Breathing Animation](https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif)
-
-<br>
-
-<sub>**🌸 Breathing is life!** The respiratory system amazes me with its elegant design and critical function in maintaining our body's balance.</sub>
-
-<br>
-
-<details>
-<summary><b>🌬️ Clinical Skills I'm Developing</b></summary>
-
-<br>
+#### 🌬️ Respiratory Cycle Diagram
 
 ```
-┌─────────────────────────────────────────────┐
-│ ✓ Arterial blood gas (ABG) interpretation  │
-│ ✓ Spirometry & pulmonary function tests    │
-│ ✓ Ventilation/perfusion (V/Q) matching     │
-│ ✓ Oxygen delivery calculations             │
-│ ✓ Respiratory failure management           │
-│ ✓ Acid-base balance interpretation         │
-└─────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════════════╗
+║                     RESPIRATORY MECHANICS                         ║
+╠═══════════════════════════════════════════════════════════════════╣
+║                                                                   ║
+║   INSPIRATION                           EXPIRATION                ║
+║       ↓                                     ↓                     ║
+║   Diaphragm ↓                           Diaphragm ↑               ║
+║   Ext. Intercostals ↑                   Relaxation                ║
+║       ↓                                     ↓                     ║
+║   Thoracic Volume ↑                     Thoracic Volume ↓         ║
+║       ↓                                     ↓                     ║
+║   Intrapulmonary Pressure ↓             Intrapulmonary Pressure ↑ ║
+║       ↓                                     ↓                     ║
+║   Air Flow IN (O₂)                      Air Flow OUT (CO₂)        ║
+║                                                                   ║
+╠═══════════════════════════════════════════════════════════════════╣
+║  Tidal Volume: 500mL  |  Respiratory Rate: 16/min                ║
+║  FEV1/FVC: 0.8        |  SpO₂: 98%        |  pH: 7.40            ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
+
+#### 🌬️ Clinical Skills I'm Developing
+
+- ✅ Arterial blood gas (ABG) interpretation
+- ✅ Spirometry and pulmonary function tests (PFTs)
+- ✅ Ventilation/perfusion (V/Q) matching analysis
+- ✅ Oxygen delivery and consumption calculations
+- ✅ Respiratory failure management (Type I & II)
+- ✅ Acid-base balance interpretation
+- ✅ Mechanical ventilation principles
+- ✅ Diffusion capacity (DLCO) analysis
 
 **💡 Clinical Insight:**  
 *"I love understanding how the lungs maintain acid-base balance and how tiny alveoli perform the miraculous task of gas exchange. Every breath is a testament to biological engineering!"*
 
-</details>
+![ABG](https://img.shields.io/badge/ABG-Interpretation-c41e3a?style=flat-square)
+![Spirometry](https://img.shields.io/badge/Spirometry-PFTs-2a2a2a?style=flat-square)
+![V/Q Matching](https://img.shields.io/badge/V%2FQ-Matching-c41e3a?style=flat-square)
 
-<br>
+---
 
-![ABG](https://img.shields.io/badge/ABG-Interpretation-c41e3a?style=flat-square&logo=analytics&logoColor=white)
-![Spirometry](https://img.shields.io/badge/Spirometry-PFTs-2a2a2a?style=flat-square&logo=chart-line&logoColor=white)
-![Ventilation](https://img.shields.io/badge/V/Q-Matching-c41e3a?style=flat-square&logo=lungs&logoColor=white)
+### ✨ Hepatology & Metabolic Architecture
 
-</td>
-</tr>
-</table>
+**The liver is a biochemical powerhouse!** With over 500 functions, it's one of the most complex and resilient organs in the human body.
 
-<br>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### <div align="center">✨ Hepatology & Metabolic Architecture</div>
-
-<div align="center">
-
-<!-- LIVER METABOLISM VISUALIZATION -->
-```
-╔════════════════════════════════════════════════════════════╗
-║  HEPATIC METABOLIC PROCESSING UNIT                         ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║    Portal Vein → [●●●] → [HEPATOCYTE FACTORY] → [●●●]    ║
-║                     ↓                    ↓                 ║
-║               Synthesis           Detoxification           ║
-║                     ↓                    ↓                 ║
-║          [Albumin, Clotting]    [CYP450 System]          ║
-║                     ↓                    ↓                 ║
-║               Bile Production    Drug Metabolism           ║
-║                                                            ║
-╠════════════════════════════════════════════════════════════╣
-║  AST: 25 | ALT: 30 | ALP: 60 | Bilirubin: 0.8 | Albumin: 4.2 ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br>
-
-![Science Animation](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
-
-<br>
-
-<sub>**🌸 The liver is a biochemical powerhouse!** With over 500 functions, it's one of the most complex and resilient organs in the human body.</sub>
-
-<br>
-
-<details>
-<summary><b>🧪 Areas of Study</b></summary>
-
-<br>
+#### 🧪 Hepatic Metabolic Processing
 
 ```
-┌─────────────────────────────────────────────┐
-│ ✓ Bilirubin metabolism & jaundice workup   │
-│ ✓ Liver function tests interpretation      │
-│ ✓ Portal hypertension physiology           │
-│ ✓ Drug metabolism (CYP450 system)          │
-│ ✓ Coagulation cascade synthesis            │
-│ ✓ Hepatocyte zonation & regeneration       │
-└─────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════════════╗
+║               HEPATIC PORTAL SYSTEM & METABOLISM                  ║
+╠═══════════════════════════════════════════════════════════════════╣
+║                                                                   ║
+║   Portal Vein (Nutrients, Drugs, Toxins)                         ║
+║         ↓                                                         ║
+║   ┌─────────────────────────────────────────┐                    ║
+║   │      HEPATOCYTE PROCESSING ZONES        │                    ║
+║   ├─────────────────────────────────────────┤                    ║
+║   │  Zone 1: High O₂ → Oxidative Metabolism│                    ║
+║   │  Zone 2: Intermediate Functions         │                    ║
+║   │  Zone 3: Low O₂ → Detoxification        │                    ║
+║   └─────────────────────────────────────────┘                    ║
+║         ↓                    ↓                                    ║
+║    SYNTHESIS           BIOTRANSFORMATION                          ║
+║         ↓                    ↓                                    ║
+║   • Albumin              Phase I: CYP450                          ║
+║   • Clotting Factors     (Oxidation, Reduction)                  ║
+║   • Glucose                   ↓                                   ║
+║   • Cholesterol          Phase II: Conjugation                   ║
+║   • Bile Acids           (Glucuronidation, Sulfation)            ║
+║         ↓                    ↓                                    ║
+║   Hepatic Vein          Bile Excretion                           ║
+║                                                                   ║
+╠═══════════════════════════════════════════════════════════════════╣
+║  AST: 25 U/L  |  ALT: 30 U/L  |  ALP: 60 U/L  |  Bili: 0.8 mg/dL║
+║  Albumin: 4.2 g/dL  |  PT/INR: Normal  |  Ammonia: <50 μg/dL    ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
+
+#### 🧪 Areas of Study
+
+- ✅ Bilirubin metabolism and jaundice workup
+- ✅ Liver function tests (LFTs) interpretation
+- ✅ Portal hypertension physiology and management
+- ✅ Drug metabolism via cytochrome P450 system
+- ✅ Coagulation cascade and clotting factor synthesis
+- ✅ Hepatocyte zonation and regeneration
+- ✅ Bile acid metabolism and enterohepatic circulation
+- ✅ Hepatic encephalopathy pathophysiology
 
 **💡 Clinical Insight:**  
 *"I'm fascinated by how the liver processes everything we consume and how it regenerates itself—it's like having a built-in detox factory that never stops working!"*
 
-</details>
+![LFTs](https://img.shields.io/badge/LFTs-Interpretation-c41e3a?style=flat-square)
+![CYP450](https://img.shields.io/badge/CYP450-Metabolism-2a2a2a?style=flat-square)
+![Portal HTN](https://img.shields.io/badge/Portal-Hypertension-c41e3a?style=flat-square)
 
-<br>
+---
 
-![LFTs](https://img.shields.io/badge/LFTs-Interpretation-c41e3a?style=flat-square&logo=flask&logoColor=white)
-![Metabolism](https://img.shields.io/badge/Hepatic-Metabolism-2a2a2a?style=flat-square&logo=molecule&logoColor=white)
-![Portal](https://img.shields.io/badge/Portal-Hypertension-c41e3a?style=flat-square&logo=circulation&logoColor=white)
+### 🩺 Clinical Examination & Diagnosis
 
-</td>
-<td width="50%" valign="top">
+**The patient comes first, always.** I'm passionate about developing strong clinical examination skills and bedside manner.
 
-### <div align="center">🩺 Clinical Examination & Diagnosis</div>
-
-<div align="center">
-
-<!-- CLINICAL WORKFLOW -->
-```
-╔════════════════════════════════════════════════════════════╗
-║  CLINICAL DIAGNOSTIC WORKFLOW                              ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  1. HISTORY TAKING                                        ║
-║     └─→ Chief Complaint → HPI → PMH → Review of Systems  ║
-║                                                            ║
-║  2. PHYSICAL EXAMINATION                                   ║
-║     └─→ Inspection → Palpation → Percussion → Auscultation║
-║                                                            ║
-║  3. DIFFERENTIAL DIAGNOSIS                                 ║
-║     └─→ Pattern Recognition → Critical Thinking           ║
-║                                                            ║
-║  4. DIAGNOSTIC TESTING                                     ║
-║     └─→ Labs → Imaging → Confirm/Rule Out                 ║
-║                                                            ║
-║  5. TREATMENT PLAN                                         ║
-║     └─→ Evidence-Based → Patient-Centered Care            ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br>
-
-![Doctor Animation](https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif)
-
-<br>
-
-<sub>**🌸 The patient comes first, always.** I'm passionate about developing strong clinical examination skills and bedside manner.</sub>
-
-<br>
-
-<details>
-<summary><b>💬 What Drives Me</b></summary>
-
-<br>
+#### 💼 Clinical Diagnostic Workflow
 
 ```
-┌─────────────────────────────────────────────┐
-│ ✓ Thorough history taking                  │
-│ ✓ Patient communication                    │
-│ ✓ Physical examination techniques          │
-│ ✓ Clinical reasoning                       │
-│ ✓ Differential diagnosis                   │
-│ ✓ Evidence-based medicine                  │
-│ ✓ Empathy and patient-centered care        │
-└─────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════════════╗
+║                   SYSTEMATIC CLINICAL APPROACH                    ║
+╠═══════════════════════════════════════════════════════════════════╣
+║                                                                   ║
+║  STEP 1: HISTORY TAKING                                          ║
+║    ├─ Chief Complaint (CC)                                       ║
+║    ├─ History of Present Illness (HPI)                           ║
+║    │    • Onset, Location, Duration, Character, Aggravating/     ║
+║    │      Alleviating factors, Radiation, Timing, Severity       ║
+║    ├─ Past Medical History (PMH)                                 ║
+║    ├─ Medications & Allergies                                    ║
+║    ├─ Family History & Social History                            ║
+║    └─ Review of Systems (ROS)                                    ║
+║                                                                   ║
+║  STEP 2: PHYSICAL EXAMINATION                                    ║
+║    ├─ General Appearance & Vital Signs                           ║
+║    ├─ Inspection (Visual Assessment)                             ║
+║    ├─ Palpation (Touch/Pressure)                                 ║
+║    ├─ Percussion (Tapping for Sounds)                            ║
+║    └─ Auscultation (Listening with Stethoscope)                  ║
+║                                                                   ║
+║  STEP 3: DIFFERENTIAL DIAGNOSIS                                  ║
+║    ├─ Pattern Recognition                                        ║
+║    ├─ Critical Thinking                                          ║
+║    └─ Most Likely → Less Likely → Cannot Miss                   ║
+║                                                                   ║
+║  STEP 4: DIAGNOSTIC TESTING                                      ║
+║    ├─ Laboratory Tests                                           ║
+║    ├─ Imaging Studies                                            ║
+║    └─ Confirm or Rule Out Diagnoses                              ║
+║                                                                   ║
+║  STEP 5: TREATMENT PLAN                                          ║
+║    ├─ Evidence-Based Medicine                                    ║
+║    ├─ Patient-Centered Care                                      ║
+║    └─ Follow-Up & Monitoring                                     ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
+
+#### 💬 What Drives Me
+
+- ✅ Thorough history taking and active listening
+- ✅ Effective patient communication and empathy
+- ✅ Systematic physical examination techniques
+- ✅ Clinical reasoning and diagnostic thinking
+- ✅ Differential diagnosis formulation
+- ✅ Evidence-based medicine application
+- ✅ Patient-centered care and shared decision-making
+- ✅ Professional bedside manner and ethics
 
 **💡 Clinical Insight:**  
 *"Medicine is both an art and a science. I strive to combine clinical knowledge with genuine compassion to provide the best care possible. Every patient teaches me something new!"*
 
-</details>
+![History Taking](https://img.shields.io/badge/History-Taking-c41e3a?style=flat-square)
+![Physical Exam](https://img.shields.io/badge/Physical-Examination-2a2a2a?style=flat-square)
+![Diagnosis](https://img.shields.io/badge/Clinical-Reasoning-c41e3a?style=flat-square)
 
-<br>
+---
 
-![History](https://img.shields.io/badge/History-Taking-c41e3a?style=flat-square&logo=comment&logoColor=white)
-![Examination](https://img.shields.io/badge/Physical-Exam-2a2a2a?style=flat-square&logo=stethoscope&logoColor=white)
-![Diagnosis](https://img.shields.io/badge/Clinical-Reasoning-c41e3a?style=flat-square&logo=brain&logoColor=white)
+### 🔬 Pathophysiology & Disease Mechanisms
 
-</td>
-</tr>
-</table>
+**Understanding WHY diseases happen!** Pathophysiology bridges the gap between basic science and clinical medicine.
 
-<br>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### <div align="center">🔬 Pathophysiology & Disease Mechanisms</div>
-
-<div align="center">
-
-<!-- CELLULAR PATHOLOGY -->
-```
-╔════════════════════════════════════════════════════════════╗
-║  CELLULAR INJURY & ADAPTATION CASCADE                      ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  Normal Cell  →  Stress/Injury  →  Response               ║
-║       ↓              ↓                ↓                    ║
-║   Homeostasis    Adaptation      Reversible Injury        ║
-║                      ↓                ↓                    ║
-║               [Hypertrophy]    [Cell Swelling]            ║
-║               [Hyperplasia]    [Fatty Change]             ║
-║               [Atrophy]        [↓ ATP Production]         ║
-║               [Metaplasia]           ↓                     ║
-║                                Irreversible Injury         ║
-║                                      ↓                     ║
-║                              [CELL DEATH]                  ║
-║                              ↙          ↘                 ║
-║                        Necrosis      Apoptosis             ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br>
-
-![Pathology Animation](https://media.giphy.com/media/3oKIPkOgszO8fie0tG/giphy.gif)
-
-<br>
-
-<sub>**🌸 Understanding WHY diseases happen!** Pathophysiology bridges the gap between basic science and clinical medicine.</sub>
-
-<br>
-
-<details>
-<summary><b>🧬 Current Focus Areas</b></summary>
-
-<br>
+#### 🧬 Cellular Injury & Adaptation Cascade
 
 ```
-┌─────────────────────────────────────────────┐
-│ ✓ Cellular injury & adaptation              │
-│ ✓ Inflammatory response pathways            │
-│ ✓ Metabolic disorders                       │
-│ ✓ Immunopathology                           │
-│ ✓ Cancer biology basics                     │
-│ ✓ Molecular mechanisms of disease           │
-└─────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════════════╗
+║              CELLULAR RESPONSE TO STRESS & INJURY                 ║
+╠═══════════════════════════════════════════════════════════════════╣
+║                                                                   ║
+║   NORMAL HOMEOSTASIS                                             ║
+║         ↓                                                         ║
+║   ┌─────────────┐                                                ║
+║   │   STRESS    │ (Hypoxia, Toxins, Physical Injury, etc.)      ║
+║   └─────────────┘                                                ║
+║         ↓                                                         ║
+║   ┌─────────────────────────────────────┐                       ║
+║   │      CELLULAR ADAPTATION            │                        ║
+║   ├─────────────────────────────────────┤                       ║
+║   │  • HYPERTROPHY (↑ Cell Size)       │                        ║
+║   │  • HYPERPLASIA (↑ Cell Number)     │                        ║
+║   │  • ATROPHY (↓ Cell Size)           │                        ║
+║   │  • METAPLASIA (Cell Type Change)   │                        ║
+║   └─────────────────────────────────────┘                       ║
+║         ↓                                                         ║
+║   Adaptation Sufficient? ─→ YES → Return to Homeostasis         ║
+║         ↓                                                         ║
+║        NO                                                         ║
+║         ↓                                                         ║
+║   ┌─────────────────────────────────────┐                       ║
+║   │    REVERSIBLE CELL INJURY           │                        ║
+║   ├─────────────────────────────────────┤                       ║
+║   │  • Cellular Swelling                │                        ║
+║   │  • Fatty Change                     │                        ║
+║   │  • ↓ ATP Production                 │                        ║
+║   │  • Membrane Damage                  │                        ║
+║   └─────────────────────────────────────┘                       ║
+║         ↓                                                         ║
+║   Injury Continues? ─→ YES                                       ║
+║         ↓                                                         ║
+║   ┌─────────────────────────────────────┐                       ║
+║   │   IRREVERSIBLE CELL INJURY          │                        ║
+║   │         (POINT OF NO RETURN)        │                        ║
+║   └─────────────────────────────────────┘                       ║
+║         ↓                                                         ║
+║   ┌─────────────────┐                                            ║
+║   │  CELL DEATH     │                                            ║
+║   └─────────────────┘                                            ║
+║      ↙           ↘                                               ║
+║  NECROSIS      APOPTOSIS                                         ║
+║  (Pathologic)  (Programmed)                                      ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
+
+#### 🧬 Current Focus Areas
+
+- ✅ Cellular injury and adaptation mechanisms
+- ✅ Inflammatory response pathways (acute & chronic)
+- ✅ Metabolic disorders (diabetes, hyperlipidemia, obesity)
+- ✅ Immunopathology and autoimmune diseases
+- ✅ Cancer biology basics (oncogenes, tumor suppressors)
+- ✅ Molecular mechanisms of disease
+- ✅ Genetic and environmental factors
+- ✅ Systemic disease manifestations
 
 **💡 Clinical Insight:**  
 *"When you understand the mechanisms behind diseases, treatment makes so much more sense! I love connecting molecular biology to actual patient symptoms."*
 
-</details>
+![Pathophysiology](https://img.shields.io/badge/Pathophysiology-Mechanisms-c41e3a?style=flat-square)
+![Cellular Biology](https://img.shields.io/badge/Cellular-Biology-2a2a2a?style=flat-square)
+![Disease](https://img.shields.io/badge/Disease-Mechanisms-c41e3a?style=flat-square)
 
-<br>
+---
 
-![Pathophysiology](https://img.shields.io/badge/Pathophysiology-Mechanisms-c41e3a?style=flat-square&logo=dna&logoColor=white)
-![Cellular](https://img.shields.io/badge/Cellular-Biology-2a2a2a?style=flat-square&logo=microscope&logoColor=white)
+### 💊 Pharmacology & Therapeutics
 
-</td>
-<td width="50%" valign="top">
+**The right drug at the right dose!** Pharmacology is essential for safe and effective patient treatment.
 
-### <div align="center">💊 Pharmacology & Therapeutics</div>
-
-<div align="center">
-
-<!-- PHARMACOKINETICS -->
-```
-╔════════════════════════════════════════════════════════════╗
-║  PHARMACOKINETICS - ADME PROCESS                           ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  ABSORPTION → DISTRIBUTION → METABOLISM → EXCRETION        ║
-║      ↓              ↓             ↓            ↓          ║
-║   [GI Tract]   [Plasma Protein] [Liver]    [Kidneys]     ║
-║   [Route]      [Binding]        [CYP450]   [Bile]        ║
-║   [Bioavail.]  [Vd Calculation] [Phase I]  [Feces]       ║
-║                [Tissue Dist.]   [Phase II] [Urine]        ║
-║                                                            ║
-║  ┌────────────────────────────────────────────────┐       ║
-║  │  Drug Concentration vs. Time                   │       ║
-║  │     ╱╲                                         │       ║
-║  │    ╱  ╲___                                     │       ║
-║  │   ╱      ╲___                                  │       ║
-║  │  ╱          ╲___                               │       ║
-║  │ ╱              ╲___________________________    │       ║
-║  └────────────────────────────────────────────────┘       ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br>
-
-![Pharmacy Animation](https://media.giphy.com/media/xT0xeuOy2Fcl9vDGiA/giphy.gif)
-
-<br>
-
-<sub>**🌸 The right drug at the right dose!** Pharmacology is essential for safe and effective patient treatment.</sub>
-
-<br>
-
-<details>
-<summary><b>💉 Learning Goals</b></summary>
-
-<br>
+#### 💉 Pharmacokinetics - ADME Process
 
 ```
-┌─────────────────────────────────────────────┐
-│ ✓ Mechanisms of drug action                │
-│ ✓ Pharmacokinetics (ADME)                  │
-│ ✓ Drug interactions & contraindications    │
-│ ✓ Adverse effects management               │
-│ ✓ Personalized medicine approaches         │
-│ ✓ Therapeutic drug monitoring              │
-└─────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════════════╗
+║                  PHARMACOKINETICS: ADME PATHWAY                   ║
+╠═══════════════════════════════════════════════════════════════════╣
+║                                                                   ║
+║  A - ABSORPTION                                                   ║
+║    ├─ Route of Administration (PO, IV, IM, SC, etc.)            ║
+║    ├─ Bioavailability (F)                                        ║
+║    ├─ First-Pass Metabolism                                      ║
+║    └─ Factors: pH, blood flow, surface area                     ║
+║         ↓                                                         ║
+║  D - DISTRIBUTION                                                 ║
+║    ├─ Plasma Protein Binding                                     ║
+║    ├─ Volume of Distribution (Vd)                                ║
+║    ├─ Blood-Brain Barrier                                        ║
+║    └─ Tissue Perfusion                                           ║
+║         ↓                                                         ║
+║  M - METABOLISM                                                   ║
+║    ├─ Hepatic Metabolism (Primary Site)                          ║
+║    ├─ Phase I: CYP450 Enzymes                                    ║
+║    │    • Oxidation, Reduction, Hydrolysis                       ║
+║    ├─ Phase II: Conjugation Reactions                            ║
+║    │    • Glucuronidation, Sulfation, Acetylation               ║
+║    └─ Active/Inactive Metabolites                                ║
+║         ↓                                                         ║
+║  E - EXCRETION                                                    ║
+║    ├─ Renal Excretion (Primary Route)                            ║
+║    ├─ Biliary Excretion                                          ║
+║    ├─ Pulmonary Excretion                                        ║
+║    └─ Clearance & Half-Life (t½)                                 ║
+║                                                                   ║
+╠═══════════════════════════════════════════════════════════════════╣
+║                DRUG CONCENTRATION vs. TIME                        ║
+║                                                                   ║
+║   Conc.  │                                                        ║
+║      ↑   │     ╱╲                                                 ║
+║          │    ╱  ╲___                                             ║
+║   Cmax ──┤   ╱      ╲___                                          ║
+║          │  ╱          ╲___                                       ║
+║   MTC ───┤─╱──────────────╲───────────── (Max Therapeutic)       ║
+║          │╱                 ╲___                                  ║
+║   MEC ───┤───────────────────────╲────── (Min Effective)         ║
+║          │                         ╲___                           ║
+║          └──────────────────────────────→ Time                    ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
+
+#### 💉 Learning Goals
+
+- ✅ Mechanisms of drug action (receptors, enzymes, ion channels)
+- ✅ Pharmacokinetics (ADME principles)
+- ✅ Pharmacodynamics (dose-response relationships)
+- ✅ Drug interactions and contraindications
+- ✅ Adverse effects and toxicity management
+- ✅ Personalized medicine approaches
+- ✅ Therapeutic drug monitoring
+- ✅ Prescription writing and dosing calculations
 
 **💡 Clinical Insight:**  
 *"Every medication has a story—how it works, how the body handles it, and how it can help (or harm). I find this balance fascinating and crucial for clinical practice!"*
 
-</details>
-
-<br>
-
-![Pharmacology](https://img.shields.io/badge/Pharmacology-Drug%20Action-c41e3a?style=flat-square&logo=pill&logoColor=white)
-![Therapeutics](https://img.shields.io/badge/Therapeutics-Treatment-2a2a2a?style=flat-square&logo=medical-bag&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-```
-═══════════════════════════════════════════════════════════════════════════════
-```
-
-<br>
+![Pharmacology](https://img.shields.io/badge/Pharmacology-Drug%20Action-c41e3a?style=flat-square)
+![ADME](https://img.shields.io/badge/ADME-Kinetics-2a2a2a?style=flat-square)
+![Therapeutics](https://img.shields.io/badge/Therapeutics-Treatment-c41e3a?style=flat-square)
 
 ---
 
 ## 🎮 Gaming & Recreation (Mental Breaks!)
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=28&duration=2000&pause=1000&color=C41E3A&center=true&vCenter=true&width=700&lines=When+I'm+not+in+clinical+rotations...;I+enjoy+unwinding+with+strategic+games!+%F0%9F%8E%AE" alt="Gaming Header" />
-</div>
-
-<br>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
+When I'm not in clinical rotations or studying, I enjoy unwinding with strategic games that keep my problem-solving skills sharp!
 
 ### 👤 Persona 5
+I love the **stylish UI design** and strategic turn-based combat. The game's emphasis on planning, exploiting enemy weaknesses, and managing resources reminds me of clinical problem-solving and differential diagnosis!
 
-![Persona 5 Animation](https://media.giphy.com/media/IgsXOXGPxfT3O/giphy.gif)
-
-<br>
-
-<sub>I love the **stylish UI design** and strategic turn-based combat. The game's emphasis on planning and exploiting weaknesses reminds me of clinical problem-solving!</sub>
-
-<br>
-
-![Strategy](https://img.shields.io/badge/Strategy-Turn--Based-c41e3a?style=flat-square&logo=gamepad&logoColor=white)
-![Stylish](https://img.shields.io/badge/UI-Stylish%20Design-2a2a2a?style=flat-square&logo=design&logoColor=white)
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### 🃏 Yu-Gi-Oh! Master Duel
-
-![Yu-Gi-Oh Animation](https://media.giphy.com/media/pOKZfPfPymb3W/giphy.gif)
-
-<br>
-
-<sub>Competitive deck-building is my jam! I've reached **Master Rank** using **Magician archetypes**. The strategic depth keeps my problem-solving skills sharp!</sub>
-
-<br>
-
-![Master Rank](https://img.shields.io/badge/Master-Rank-c41e3a?style=flat-square&logo=trophy&logoColor=white)
-![Magician](https://img.shields.io/badge/Magician-Deck-2a2a2a?style=flat-square&logo=magic&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-
-### 🎴 Inscryption
-
-![Cards Animation](https://media.giphy.com/media/l3q2LH45XElELRzRm/giphy.gif)
-
-<br>
-
-<sub>The dark card mechanics and rogue-like progression are fascinating. I enjoy finding **game-breaking synergies** and optimizing each run!</sub>
-
-<br>
-
-![Roguelike](https://img.shields.io/badge/Roguelike-Progression-c41e3a?style=flat-square&logo=dice&logoColor=white)
-![Cards](https://img.shields.io/badge/Card-Mechanics-2a2a2a?style=flat-square&logo=cards&logoColor=white)
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### 🚀 Expedition 33
-
-![Space Animation](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
-
-<br>
-
-<sub>Love the **exploration and survival mechanics**! Managing resources and making strategic decisions in challenging environments is both fun and mentally engaging.</sub>
-
-<br>
-
-![Exploration](https://img.shields.io/badge/Exploration-Adventure-c41e3a?style=flat-square&logo=compass&logoColor=white)
-![Survival](https://img.shields.io/badge/Survival-Strategy-2a2a2a?style=flat-square&logo=fire&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-```
-═══════════════════════════════════════════════════════════════════════════════
-```
-
-<br>
+![Strategy](https://img.shields.io/badge/Genre-Turn--Based%20Strategy-c41e3a?style=flat-square)
+![UI Design](https://img.shields.io/badge/Focus-Stylish%20UI-2a2a2a?style=flat-square)
 
 ---
 
-## 💻 Technical Skills
+### 🃏 Yu-Gi-Oh! Master Duel
+Competitive deck-building is my jam! I've reached **Master Rank** using **Magician-themed archetypes**. The strategic depth, combo execution, and meta-adaptation keep my analytical skills sharp!
 
-<div align="center">
+![Master Rank](https://img.shields.io/badge/Rank-Master%20Tier-c41e3a?style=flat-square)
+![Deck Type](https://img.shields.io/badge/Archetype-Magician%20Decks-2a2a2a?style=flat-square)
 
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=24&duration=2000&pause=800&color=2A2A2A&center=true&vCenter=true&width=600&lines=I+enjoy+creating+clean%2C+interactive+layouts!+%E2%9C%A8" alt="Tech Skills" />
+---
 
-<br><br>
+### 🎴 Inscryption
+The dark card mechanics and rogue-like progression are fascinating. I enjoy finding **game-breaking synergies**, optimizing each run, and uncovering the cryptic narrative layers!
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=f5f5f0)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=f5f5f0)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=f5f5f0)
-![SVG](https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=black&labelColor=f5f5f0)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=f5f5f0)
+![Roguelike](https://img.shields.io/badge/Genre-Roguelike-c41e3a?style=flat-square)
+![Card Game](https://img.shields.io/badge/Mechanics-Card%20Synergies-2a2a2a?style=flat-square)
 
-<br>
+---
 
-**✨ Focus Areas:** Responsive Design • Clean Layouts • Documentation • User Experience
+### 🚀 Expedition 33
+Love the **exploration and survival mechanics**! Managing resources, making strategic decisions under pressure, and adapting to challenging environments is both fun and mentally engaging.
 
-</div>
+![Exploration](https://img.shields.io/badge/Genre-Exploration-c41e3a?style=flat-square)
+![Survival](https://img.shields.io/badge/Focus-Survival%20Strategy-2a2a2a?style=flat-square)
 
-<br>
-
-```
-═══════════════════════════════════════════════════════════════════════════════
-```
-
-<br>
 
 ---
 
@@ -613,33 +436,28 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Natskuni&show_icons=true&theme=default&title_color=c41e3a&text_color=2a2a2a&icon_color=c41e3a&bg_color=f5f5f0&border_color=2a2a2a&hide_border=false&border_radius=15)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Natskuni&theme=default&ring=c41e3a&fire=c41e3a&currStreakLabel=2a2a2a&background=f5f5f0&border=2a2a2a&stroke=2a2a2a&currStreakNum=2a2a2a&sideNums=2a2a2a&sideLabels=2a2a2a&dates=2a2a2a)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Natskuni&show_icons=true&theme=default&title_color=c41e3a&text_color=2a2a2a&icon_color=c41e3a&bg_color=ffffff&border_color=2a2a2a)
 
-<br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Natskuni&theme=default&ring=c41e3a&fire=c41e3a&currStreakLabel=2a2a2a&background=ffffff&border=2a2a2a)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Natskuni&bg_color=f5f5f0&color=2a2a2a&line=c41e3a&point=c41e3a&area=true&border_color=2a2a2a&theme=github-light&custom_title=Contribution%20Activity)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Natskuni&layout=compact&theme=default&title_color=c41e3a&text_color=2a2a2a&bg_color=ffffff&border_color=2a2a2a)
 
 </div>
-
-<br>
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=900&size=36&duration=2000&pause=1000&color=C41E3A&center=true&vCenter=true&width=600&lines=%E2%9A%95%EF%B8%8F+Medicine+is+my+passion+%F0%9F%92%99" alt="Final Message" />
+## ⚕️ Medicine is my passion 💙
 
-<br><br>
+**"Healing with knowledge, caring with heart"**
 
-### <sub>"Healing with knowledge, caring with heart" ✨</sub>
+---
 
-<br>
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-2a2a2a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Natskuni)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-2a2a2a?style=for-the-badge&logo=github&logoColor=white&labelColor=f5f5f0)](https://github.com/Natskuni)
+---
 
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F5F5F0&height=120&section=footer"/>
+**Made with ❤️ and a stethoscope** 🩺
 
 </div>
