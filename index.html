@@ -1,0 +1,721 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salem Khalid Salem Badawood - Medical Portfolio</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;600;700&family=Architects+Daughter&family=Patrick+Hand&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Patrick Hand', cursive;
+            background: linear-gradient(135deg, #f5f5f0 0%, #e8e8e0 100%);
+            color: #2a2a2a;
+            overflow-x: hidden;
+            position: relative;
+        }
+
+        /* Paper texture background */
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: 
+                repeating-linear-gradient(
+                    0deg,
+                    transparent,
+                    transparent 2px,
+                    rgba(0,0,0,.02) 2px,
+                    rgba(0,0,0,.02) 4px
+                );
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 2rem;
+            position: relative;
+            z-index: 1;
+        }
+
+        /* Hero Panel - Sketched Paper */
+        .hero-panel {
+            background: #ffffff;
+            border: 3px solid #2a2a2a;
+            border-radius: 15px;
+            padding: 3rem;
+            margin-bottom: 3rem;
+            position: relative;
+            box-shadow: 
+                8px 8px 0px rgba(0, 0, 0, 0.1),
+                inset 0 0 100px rgba(0, 0, 0, 0.02);
+            transform: rotate(-0.5deg);
+            transition: all 0.3s ease;
+        }
+
+        .hero-panel:hover {
+            transform: rotate(0deg);
+            box-shadow: 12px 12px 0px rgba(0, 0, 0, 0.15);
+        }
+
+        /* Sketched corners */
+        .hero-panel::before,
+        .hero-panel::after {
+            content: '';
+            position: absolute;
+            width: 40px;
+            height: 40px;
+            border: 2px solid #2a2a2a;
+        }
+
+        .hero-panel::before {
+            top: -5px;
+            left: -5px;
+            border-right: none;
+            border-bottom: none;
+        }
+
+        .hero-panel::after {
+            bottom: -5px;
+            right: -5px;
+            border-left: none;
+            border-top: none;
+        }
+
+        .hero-title {
+            font-family: 'Caveat', cursive;
+            font-size: 4rem;
+            font-weight: 700;
+            color: #2a2a2a;
+            text-align: center;
+            margin-bottom: 1rem;
+            position: relative;
+            background: linear-gradient(90deg, #2a2a2a, #4a4a4a, #2a2a2a);
+            background-size: 200% auto;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            animation: sketch-shift 3s ease infinite;
+        }
+
+        @keyframes sketch-shift {
+            0%, 100% { background-position: 0% center; }
+            50% { background-position: 100% center; }
+        }
+
+        .hero-subtitle {
+            font-family: 'Architects Daughter', cursive;
+            font-size: 1.8rem;
+            color: #c41e3a;
+            text-align: center;
+            margin-bottom: 2rem;
+            text-decoration: underline wavy;
+        }
+
+        .typing-animation {
+            background: #fffef7;
+            border: 2px dashed #2a2a2a;
+            padding: 2rem;
+            margin: 2rem 0;
+            font-size: 1.3rem;
+            color: #2a2a2a;
+            font-weight: 600;
+            border-radius: 10px;
+            box-shadow: 4px 4px 0px rgba(0, 0, 0, 0.1);
+        }
+
+        .intro-quote {
+            background: #fffef7;
+            border-left: 8px solid #c41e3a;
+            border-right: 2px solid rgba(0, 0, 0, 0.1);
+            border-top: 2px solid rgba(0, 0, 0, 0.1);
+            border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+            padding: 2.5rem;
+            margin: 2rem 0;
+            font-size: 1.2rem;
+            line-height: 1.9;
+            color: #2a2a2a;
+            border-radius: 10px;
+            box-shadow: 6px 6px 0px rgba(0, 0, 0, 0.08);
+            transform: rotate(0.5deg);
+        }
+
+        /* Section Headers - Hand Drawn Style */
+        .section-header {
+            font-family: 'Caveat', cursive;
+            font-size: 3.5rem;
+            font-weight: 700;
+            color: #c41e3a;
+            margin: 5rem 0 2.5rem 0;
+            text-align: center;
+            position: relative;
+            text-decoration: underline;
+            text-decoration-style: wavy;
+        }
+
+        /* Medical Cards - Sketch Style */
+        .medical-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 2.5rem;
+            margin: 2rem 0;
+        }
+
+        .medical-card {
+            background: #ffffff;
+            border: 3px solid #2a2a2a;
+            border-radius: 12px;
+            padding: 2.5rem;
+            position: relative;
+            overflow: hidden;
+            transition: all 0.4s ease;
+            box-shadow: 6px 6px 0px rgba(0, 0, 0, 0.12);
+        }
+
+        .medical-card:hover {
+            transform: translateY(-10px) rotate(-1deg);
+            box-shadow: 10px 10px 0px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Sketch corners for cards */
+        .medical-card::before,
+        .medical-card::after {
+            content: '';
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            border: 2px solid #c41e3a;
+        }
+
+        .medical-card::before {
+            top: 10px;
+            right: 10px;
+            border-left: none;
+            border-bottom: none;
+        }
+
+        .medical-card::after {
+            bottom: 10px;
+            left: 10px;
+            border-right: none;
+            border-top: none;
+        }
+
+        .card-emoji {
+            font-size: 4rem;
+            text-align: center;
+            margin-bottom: 1.5rem;
+            animation: float-emoji 3s ease-in-out infinite;
+        }
+
+        @keyframes float-emoji {
+            0%, 100% { transform: translateY(0) rotate(0deg); }
+            50% { transform: translateY(-10px) rotate(5deg); }
+        }
+
+        .card-title {
+            font-family: 'Caveat', cursive;
+            font-size: 2.2rem;
+            font-weight: 700;
+            color: #c41e3a;
+            margin-bottom: 1.5rem;
+            text-align: center;
+            text-decoration: underline;
+            text-decoration-style: wavy;
+        }
+
+        .card-content {
+            font-size: 1.1rem;
+            line-height: 1.9;
+            color: #2a2a2a;
+        }
+
+        .card-highlight {
+            background: #fffef7;
+            border: 2px dashed #c41e3a;
+            padding: 1.5rem;
+            border-radius: 10px;
+            margin: 1.5rem 0;
+            font-weight: 600;
+        }
+
+        /* ECG Animation */
+        .ecg-container {
+            width: 100%;
+            height: 150px;
+            background: #fffef7;
+            border: 2px solid #2a2a2a;
+            border-radius: 10px;
+            position: relative;
+            overflow: hidden;
+            margin: 1.5rem 0;
+        }
+
+        .ecg-grid {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background-image: 
+                linear-gradient(rgba(196, 30, 58, 0.2) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(196, 30, 58, 0.2) 1px, transparent 1px);
+            background-size: 10px 10px;
+        }
+
+        .ecg-line {
+            position: absolute;
+            width: 200%;
+            height: 100%;
+            animation: ecg-scroll 3s linear infinite;
+        }
+
+        @keyframes ecg-scroll {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(-50%); }
+        }
+
+        .ecg-wave {
+            stroke: #c41e3a;
+            stroke-width: 3;
+            fill: none;
+        }
+
+        /* Heart Beat Animation */
+        .heartbeat {
+            display: inline-block;
+            animation: heartbeat 1.5s ease-in-out infinite;
+        }
+
+        @keyframes heartbeat {
+            0%, 100% { transform: scale(1); }
+            10% { transform: scale(1.1); }
+            20% { transform: scale(1); }
+            30% { transform: scale(1.1); }
+            40% { transform: scale(1); }
+        }
+
+        /* Lung Animation */
+        .lung-container {
+            width: 100%;
+            height: 150px;
+            background: #fffef7;
+            border: 2px solid #2a2a2a;
+            border-radius: 10px;
+            position: relative;
+            overflow: hidden;
+            margin: 1.5rem 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .lung {
+            font-size: 5rem;
+            animation: breathing 3s ease-in-out infinite;
+        }
+
+        @keyframes breathing {
+            0%, 100% { transform: scale(1); opacity: 0.6; }
+            50% { transform: scale(1.2); opacity: 1; }
+        }
+
+        /* Liver Animation */
+        .liver-container {
+            width: 100%;
+            height: 150px;
+            background: #fffef7;
+            border: 2px solid #2a2a2a;
+            border-radius: 10px;
+            position: relative;
+            overflow: hidden;
+            margin: 1.5rem 0;
+        }
+
+        .particle {
+            position: absolute;
+            width: 8px;
+            height: 8px;
+            background: #c41e3a;
+            border-radius: 50%;
+            animation: particle-flow 5s linear infinite;
+        }
+
+        @keyframes particle-flow {
+            0% { transform: translateX(0) translateY(0); opacity: 0; }
+            10% { opacity: 1; }
+            90% { opacity: 1; }
+            100% { transform: translateX(300px) translateY(50px); opacity: 0; }
+        }
+
+        /* Gaming Cards - Sketch Style */
+        .gaming-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+            margin: 2rem 0;
+        }
+
+        .game-card {
+            background: #ffffff;
+            border: 2px solid #2a2a2a;
+            border-radius: 10px;
+            padding: 2rem;
+            position: relative;
+            overflow: hidden;
+            transition: all 0.3s ease;
+            box-shadow: 5px 5px 0px rgba(0, 0, 0, 0.1);
+            transform: rotate(0.5deg);
+        }
+
+        .game-card:hover {
+            transform: translateY(-5px) rotate(-0.5deg);
+            box-shadow: 8px 8px 0px rgba(0, 0, 0, 0.15);
+        }
+
+        .game-title {
+            font-family: 'Caveat', cursive;
+            font-size: 2rem;
+            font-weight: 700;
+            color: #c41e3a;
+            margin-bottom: 1rem;
+            text-align: center;
+        }
+
+        .status-tag {
+            display: inline-block;
+            background: #fffef7;
+            border: 2px solid #2a2a2a;
+            color: #2a2a2a;
+            padding: 0.5rem 1.2rem;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            margin: 0.3rem;
+            font-weight: 700;
+            box-shadow: 3px 3px 0px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Tech Badges - Sketch Style */
+        .tech-badge {
+            background: #ffffff;
+            border: 3px solid #2a2a2a;
+            padding: 1rem 2rem;
+            border-radius: 25px;
+            font-family: 'Architects Daughter', cursive;
+            font-weight: 700;
+            font-size: 1.1rem;
+            color: #2a2a2a;
+            transition: all 0.3s ease;
+            box-shadow: 5px 5px 0px rgba(0, 0, 0, 0.1);
+        }
+
+        .tech-badge:hover {
+            transform: translateY(-5px) rotate(-2deg);
+            box-shadow: 8px 8px 0px rgba(196, 30, 58, 0.3);
+        }
+
+        /* Paper curl effect */
+        .paper-curl {
+            position: relative;
+        }
+
+        .paper-curl::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            width: 0;
+            height: 0;
+            border-style: solid;
+            border-width: 0 0 40px 40px;
+            border-color: transparent transparent #e8e8e0 transparent;
+            box-shadow: -2px 2px 4px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Doodle elements */
+        .doodle-star {
+            position: absolute;
+            font-size: 1.5rem;
+            animation: twinkle 2s ease-in-out infinite;
+        }
+
+        @keyframes twinkle {
+            0%, 100% { opacity: 0.3; transform: rotate(0deg); }
+            50% { opacity: 1; transform: rotate(180deg); }
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .hero-title {
+                font-size: 2.5rem;
+            }
+            
+            .section-header {
+                font-size: 2.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- HERO PANEL -->
+        <div class="hero-panel paper-curl">
+            <span class="doodle-star" style="top: 20px; left: 20px;">✨</span>
+            <span class="doodle-star" style="top: 20px; right: 20px;">⭐</span>
+            <span class="doodle-star" style="bottom: 20px; left: 50px;">💫</span>
+            <span class="doodle-star" style="bottom: 20px; right: 50px;">✨</span>
+            
+            <h1 class="hero-title">Salem Khalid Salem Badawood</h1>
+            <h2 class="hero-subtitle">🩺 Clinical-Year Medical Student (MBBS) 💊</h2>
+            
+            <div class="typing-animation">
+                <span id="typing-text"></span><span style="animation: blink 1s infinite;">|</span>
+            </div>
+            
+            <blockquote class="intro-quote">
+                <strong style="color: #c41e3a;">⚕️ FIRST AND FOREMOST:</strong> I am a physician in training—devoted to understanding the intricate beauty of human physiology and the art of healing. My journey through clinical medicine is driven by genuine curiosity, compassion, and an unwavering commitment to patient care.
+                <br><br>
+                <strong style="color: #2a2a2a;">🌸 FROM THE HEART:</strong> From analyzing complex cardiac rhythms to understanding respiratory mechanics and hepatic biochemistry, I immerse myself in the science that saves lives. While I enjoy gaming and creative pursuits during my downtime, <strong>my true passion lies in medicine</strong>—where every case is a puzzle, every diagnosis a triumph, and every patient interaction a privilege.
+                <br><br>
+                <strong style="color: #c41e3a;">💖 THIS IS MY CALLING.</strong>
+            </blockquote>
+        </div>
+
+        <!-- MEDICAL SECTIONS -->
+        <h2 class="section-header">⚕️ My Medical Journey</h2>
+        
+        <div class="medical-grid">
+            <!-- Cardiology with ECG -->
+            <div class="medical-card paper-curl">
+                <div class="card-emoji heartbeat">💗</div>
+                <div class="card-title">Cardiology & ECG Mastery</div>
+                
+                <!-- ECG Animation -->
+                <div class="ecg-container">
+                    <div class="ecg-grid"></div>
+                    <svg class="ecg-line" viewBox="0 0 800 150" preserveAspectRatio="none">
+                        <path class="ecg-wave" d="M0,75 L100,75 L110,75 L115,65 L120,85 L125,45 L130,105 L135,75 L200,75 L210,75 L215,65 L220,85 L225,45 L230,105 L235,75 L300,75 L310,75 L315,65 L320,85 L325,45 L330,105 L335,75 L400,75 L410,75 L415,65 L420,85 L425,45 L430,105 L435,75 L500,75 L510,75 L515,65 L520,85 L525,45 L530,105 L535,75 L600,75 L610,75 L615,65 L620,85 L625,45 L630,105 L635,75 L700,75 L710,75 L715,65 L720,85 L725,45 L730,105 L735,75 L800,75"/>
+                    </svg>
+                </div>
+                
+                <div class="card-content">
+                    <strong style="color: #c41e3a;">The heart is my favorite organ!</strong> I'm deeply fascinated by cardiac electrophysiology.
+                    <div class="card-highlight">
+                        🔍 WHAT I LOVE:<br>
+                        • Reading complex ECG rhythms<br>
+                        • Cardiac vectors & axis deviation<br>
+                        • Arrhythmias (VT, SVT, AFib)<br>
+                        • ST-elevation patterns in acute MI<br>
+                        • Bundle branch blocks
+                    </div>
+                </div>
+            </div>
+
+            <!-- Pulmonology with Breathing -->
+            <div class="medical-card paper-curl">
+                <div class="card-emoji">🫁</div>
+                <div class="card-title">Pulmonology & Respiratory Care</div>
+                
+                <!-- Breathing Animation -->
+                <div class="lung-container">
+                    <div class="lung">🫁</div>
+                </div>
+                
+                <div class="card-content">
+                    <strong style="color: #c41e3a;">Breathing is life!</strong> The respiratory system amazes me with its elegant design.
+                    <div class="card-highlight">
+                        🌬️ CLINICAL SKILLS:<br>
+                        • ABG interpretation<br>
+                        • Spirometry & PFTs<br>
+                        • V/Q matching<br>
+                        • Oxygen delivery calculations<br>
+                        • Respiratory failure management
+                    </div>
+                </div>
+            </div>
+
+            <!-- Hepatology with Particles -->
+            <div class="medical-card paper-curl">
+                <div class="card-emoji">✨</div>
+                <div class="card-title">Hepatology & Metabolism</div>
+                
+                <!-- Metabolic Particles Animation -->
+                <div class="liver-container">
+                    <div class="particle" style="top: 20%; animation-delay: 0s;"></div>
+                    <div class="particle" style="top: 40%; animation-delay: 1s;"></div>
+                    <div class="particle" style="top: 60%; animation-delay: 2s;"></div>
+                    <div class="particle" style="top: 30%; animation-delay: 0.5s;"></div>
+                    <div class="particle" style="top: 50%; animation-delay: 1.5s;"></div>
+                    <div class="particle" style="top: 70%; animation-delay: 2.5s;"></div>
+                </div>
+                
+                <div class="card-content">
+                    <strong style="color: #c41e3a;">The liver is a biochemical powerhouse!</strong> Over 500 functions!
+                    <div class="card-highlight">
+                        🧪 AREAS OF STUDY:<br>
+                        • Bilirubin metabolism<br>
+                        • LFT interpretation<br>
+                        • Portal hypertension<br>
+                        • CYP450 drug metabolism<br>
+                        • Coagulation cascade
+                    </div>
+                </div>
+            </div>
+
+            <!-- Clinical Exam -->
+            <div class="medical-card paper-curl">
+                <div class="card-emoji">🩺</div>
+                <div class="card-title">Clinical Examination</div>
+                <div class="card-content">
+                    <strong style="color: #c41e3a;">The patient comes first, always.</strong>
+                    <div class="card-highlight">
+                        💬 WHAT DRIVES ME:<br>
+                        • Patient communication<br>
+                        • Physical examination<br>
+                        • Differential diagnosis<br>
+                        • Evidence-based medicine<br>
+                        • Empathy & care
+                    </div>
+                </div>
+            </div>
+
+            <!-- Pathophysiology -->
+            <div class="medical-card paper-curl">
+                <div class="card-emoji">🔬</div>
+                <div class="card-title">Pathophysiology</div>
+                <div class="card-content">
+                    <strong style="color: #c41e3a;">Understanding WHY diseases happen!</strong>
+                    <div class="card-highlight">
+                        🧬 CURRENT FOCUS:<br>
+                        • Cellular injury mechanisms<br>
+                        • Inflammatory pathways<br>
+                        • Metabolic disorders<br>
+                        • Immunopathology<br>
+                        • Cancer biology
+                    </div>
+                </div>
+            </div>
+
+            <!-- Pharmacology -->
+            <div class="medical-card paper-curl">
+                <div class="card-emoji">💊</div>
+                <div class="card-title">Pharmacology</div>
+                <div class="card-content">
+                    <strong style="color: #c41e3a;">The right drug at the right dose!</strong>
+                    <div class="card-highlight">
+                        💉 LEARNING GOALS:<br>
+                        • Drug mechanisms<br>
+                        • Pharmacokinetics (ADME)<br>
+                        • Drug interactions<br>
+                        • Adverse effects<br>
+                        • Personalized medicine
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- GAMING SECTION -->
+        <h2 class="section-header">🎮 Gaming & Recreation</h2>
+        
+        <div class="gaming-grid">
+            <div class="game-card">
+                <div class="card-emoji">👤</div>
+                <div class="game-title">Persona 5</div>
+                <div class="card-content">Stylish UI and strategic combat!</div>
+                <span class="status-tag">Strategy</span>
+            </div>
+
+            <div class="game-card">
+                <div class="card-emoji">🃏</div>
+                <div class="game-title">Yu-Gi-Oh! Master Duel</div>
+                <div class="card-content">Master Rank with Magician decks!</div>
+                <span class="status-tag">Master Rank</span>
+            </div>
+
+            <div class="game-card">
+                <div class="card-emoji">🎴</div>
+                <div class="game-title">Inscryption</div>
+                <div class="card-content">Dark card mechanics and synergies!</div>
+                <span class="status-tag">Rogue-like</span>
+            </div>
+
+            <div class="game-card">
+                <div class="card-emoji">🚀</div>
+                <div class="game-title">Expedition 33</div>
+                <div class="card-content">Exploration and survival!</div>
+                <span class="status-tag">Survival</span>
+            </div>
+        </div>
+
+        <!-- TECH STACK -->
+        <h2 class="section-header">💻 Technical Skills</h2>
+        
+        <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: center; margin: 2rem 0;">
+            <div class="tech-badge">HTML5</div>
+            <div class="tech-badge">CSS3</div>
+            <div class="tech-badge">Markdown</div>
+            <div class="tech-badge">SVG</div>
+            <div class="tech-badge">Git</div>
+        </div>
+
+        <!-- FOOTER -->
+        <div style="text-align: center; margin: 4rem 0 2rem 0; font-family: 'Caveat', cursive; font-size: 1.8rem; color: #c41e3a;">
+            <p>⚕️ Medicine is my passion 💙</p>
+            <p style="font-size: 1.3rem; margin-top: 1rem;">"Healing with knowledge, caring with heart"</p>
+        </div>
+    </div>
+
+    <script>
+        const phrases = [
+            "⚕️ Studying cardiac rhythms and saving lives by day...",
+            "🎮 Unwinding with strategic games by night..."
+        ];
+        let phraseIndex = 0;
+        let charIndex = 0;
+        let isDeleting = false;
+        const typingElement = document.getElementById('typing-text');
+
+        function type() {
+            const currentPhrase = phrases[phraseIndex];
+            
+            if (isDeleting) {
+                typingElement.textContent = currentPhrase.substring(0, charIndex - 1);
+                charIndex--;
+            } else {
+                typingElement.textContent = currentPhrase.substring(0, charIndex + 1);
+                charIndex++;
+            }
+
+            if (!isDeleting && charIndex === currentPhrase.length) {
+                setTimeout(() => { isDeleting = true; }, 2000);
+            } else if (isDeleting && charIndex === 0) {
+                isDeleting = false;
+                phraseIndex = (phraseIndex + 1) % phrases.length;
+            }
+
+            setTimeout(type, isDeleting ? 50 : 80);
+        }
+
+        type();
+
+        const style = document.createElement('style');
+        style.textContent = `
+            @keyframes blink {
+                0%, 50% { opacity: 1; }
+                51%, 100% { opacity: 0; }
+            }
+        `;
+        document.head.appendChild(style);
+    </script>
+</body>
+</html>
